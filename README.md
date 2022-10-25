@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of ELections employee has given me the task of reporting the total number of votes casted, the total number of votes for each candidate has received, the percentage of votes for each candidate and the winning candidate based on the popular vote through the power of Python. 
+A Colorado Board of Elections employee has given me the task of reporting the total number of votes casted, the total number of votes for each candidate has received, the percentage of votes for each candidate and the winning candidate based on the popular vote through the power of Python. 
 
 ## Summary/ Findings
 * Calculate the number of votes cast:
