@@ -10,9 +10,6 @@ file_to_save = os.path.join("analysis", "election_analysis.txt")
 
 
 
-
-
-
 # Initialize total voter count
 
 total_votes = 0
