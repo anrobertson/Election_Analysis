@@ -3,7 +3,8 @@
 ## Project Overview
 A Colorado Board of Elections employee has given me the task of reporting the total number of votes casted, the total number of votes for each candidate has received, the percentage of votes for each candidate and the winning candidate based on the popular vote through the power of Python. 
 
-## Summary/ Findings
+## Summary
+### Candidate Votes
 * Calculate the number of votes cast:
   * Through this project, I have calculated that the amount of votes that has been casted was 369,711.
 * Get a complete list of candidates who received votes.
@@ -37,7 +38,15 @@ Next I calculated the percentage of county votes using the float attribute.
 
 ![](Resources/float.png)
 
-I then saved the results over to the txt_file.
+I then saved the results over to the txt_file!
+
+### County Votes
+My results for county votes were not labled correctly, however, I got the percentage and the largest county turnout correct.
+* County Votes (In my code, the output shows as Araphoe but I will label what it is suppose to be.)
+  * Arapahoe (Jefferson): 10.5% (38,855)
+  * Arapahoe (Denver): 82.8% (306,055)
+  * Arapahoe: 6.7% (24,801)
+* Largest County Turnout: Denver
 
 ## Challenge Summary
 This challenge required a lot of going back and fixing my code. Like I stated before, unfortunately my code does not bring in the different counties however I believe I was moving in the right direction.
