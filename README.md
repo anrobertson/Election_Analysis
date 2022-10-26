@@ -48,7 +48,5 @@ My results for county votes were not labled correctly, however, I got the percen
   * Arapahoe: 6.7% (24,801)
 * Largest County Turnout: Denver
 
-## Challenge Summary
-This challenge required a lot of going back and fixing my code. Like I stated before, unfortunately my code does not bring in the different counties however I believe I was moving in the right direction.
-
-Because of this challenge, I have learned how to read and extract data from a CSV file, how to declare variables, writing the data to an output file and much more.
+## Election-Audit Summary
+This code can be used and altered with different csv files. For example, if you wanted to track nationwide elections and add each state, you would have to make sure your CSV file has states within it and extarct from each row and loop through it. If you wanted to find the parties that they voted under, you would creat a "party" section and also extract from that row.
