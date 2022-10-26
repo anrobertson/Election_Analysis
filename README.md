@@ -25,15 +25,15 @@ A Colorado Board of Elections employee has given me the task of reporting the to
 ## Challenge Overview
 I was given the task to automate the  of this information through Python and find the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout! Unfortunately my code is only showing one county but from what I gathered, in  the CSV file, it is divided by columns. The Ballot ID would be 0 while the County would be considered 1 which is why I placed that number in the county list.
 ### My input and reasoning
-![](Reasources/countynameinput.png)
-![](Reasources/countynameinput2.png)
+![](Resources/countynameinput.png)
+![](Resources/countynameinput2.png)
 I then used a for loop to go through my data and retrieve the county vote.
 ### Start of for loop
-![](Reasources/retreivecountyvote.png)
+![](Resources/retreivecountyvote.png)
 
 Next I calculated the percentage of county votes using the float attribute.
 ### Float
-![](Reasources/float.png)
+![](Resources/float.png)
 
 I then saved the results over to the txt_file.
 
